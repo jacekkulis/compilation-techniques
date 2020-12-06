@@ -1,6 +1,6 @@
 # Technika kompilacji
 
-
+Instead of heavy VM using Docker images.
 
 ## Docker
 Docker image with bison, flex and example programs
